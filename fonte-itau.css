@@ -1,0 +1,44 @@
+@font-face {
+    font-family: 'Itau Display';
+    src: url('subset-ItauDisplay-Light.eot');
+    src: url('subset-ItauDisplay-Light.eot?#iefix') format('embedded-opentype'),
+        url('subset-ItauDisplay-Light.woff2') format('woff2'),
+        url('subset-ItauDisplay-Light.woff') format('woff'),
+        url('subset-ItauDisplay-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Itau Display';
+    src: url('subset-ItauDisplay-Regular.eot');
+    src: url('subset-ItauDisplay-Regular.eot?#iefix') format('embedded-opentype'),
+        url('subset-ItauDisplay-Regular.woff2') format('woff2'),
+        url('subset-ItauDisplay-Regular.woff') format('woff'),
+        url('subset-ItauDisplay-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Itau Display';
+    src: url('subset-ItauDisplay-Bold.eot');
+    src: url('subset-ItauDisplay-Bold.eot?#iefix') format('embedded-opentype'),
+        url('subset-ItauDisplay-Bold.woff2') format('woff2'),
+        url('subset-ItauDisplay-Bold.woff') format('woff'),
+        url('subset-ItauDisplay-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Itau Display';
+    src: url('subset-ItauDisplay-XBold.eot');
+    src: url('subset-ItauDisplay-XBold.eot?#iefix') format('embedded-opentype'),
+        url('subset-ItauDisplay-XBold.woff2') format('woff2'),
+        url('subset-ItauDisplay-XBold.woff') format('woff'),
+        url('subset-ItauDisplay-XBold.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
